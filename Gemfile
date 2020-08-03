@@ -13,7 +13,7 @@ end
 group :test do
   gem "coveralls"
   gem "rspec",      "~> 3.1"
-  gem "rubocop",    "= 0.48.1"
+  gem "rubocop",    "= 0.88.0"
   gem "simplecov",  ">= 0.9"
 end
 
